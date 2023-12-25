@@ -12,3 +12,6 @@ C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.
 C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test.csproj.CopyComplete
 C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test.dll
 C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test\bin\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Test\bin\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib.pdb

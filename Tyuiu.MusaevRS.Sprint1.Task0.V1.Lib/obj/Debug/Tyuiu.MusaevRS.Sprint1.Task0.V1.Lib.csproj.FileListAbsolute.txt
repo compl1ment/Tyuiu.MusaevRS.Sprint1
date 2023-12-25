@@ -4,3 +4,5 @@ C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.
 C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib.csproj.CoreCompileInputs.cache
 C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib.dll
 C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib.pdb
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\rumu2\source\repos\Tyuiu.MusaevRS.Sprint1\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib\obj\Debug\Tyuiu.MusaevRS.Sprint1.Task0.V1.Lib.csproj.CopyComplete
